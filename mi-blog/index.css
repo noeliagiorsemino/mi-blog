@@ -1,0 +1,40 @@
+
+#hola{
+    display: none;
+}
+
+#mas:hover #hola {
+    background-color: purple;
+    display: inline; 
+}
+
+p
+
+{
+text-align: justify;
+text-indent: 3em;
+vertical-align: middle;
+line-height: 2em;
+}
+
+div.p{
+background: url(./adho.jpg) no-repeat left;
+}
+
+p:first-letter {
+
+    text-transform: capitalize;
+    font-size: 2em;
+    text-decoration-style: solid;
+    font-family: 'Yeon Sung', cursive;
+  
+    
+ 
+}
+a.btnAzul{
+background: blue;
+color: WHITE;
+text-decoration: none;
+
+}
+
